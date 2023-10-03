@@ -14,6 +14,7 @@ Las pipes que se usan son las siguientes:
 * [I18nSelectPipe](https://angular.io/api/common/I18nSelectPipe)
 * [I18nPluralPipe](https://angular.io/api/common/I18nPluralPipe)
 * [SlicePipe](https://angular.io/api/common/SlicePipe)
+* [JsonPipe](https://angular.io/api/common/JsonPipe)
 * [KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
 * [AsyncPipe](https://angular.io/api/common/AsyncPipe)
 
