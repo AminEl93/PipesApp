@@ -1,6 +1,8 @@
 # PipesApp
 
-Esta aplicación consiste aprender las principales pipes de Angular y en cómo crear nuevas pipes personalizadas. Las pipes que se usan son las siguientes:
+Esta aplicación consiste aprender las principales pipes de Angular y en cómo crear nuevas pipes personalizadas. La aplicación se ha generado con la versión 16.0.0 de [Angular CLI](https://github.com/angular/angular-cli), con la versión 18.16.0 de NodeJS y con la versión 9.6.6 de npm.
+
+Las pipes que se usan son las siguientes:
 
 * [UpperCasePipe](https://angular.io/api/common/UpperCasePipe)
 * [LowerCasePipe](https://angular.io/api/common/LowerCasePipe)
@@ -15,4 +17,4 @@ Esta aplicación consiste aprender las principales pipes de Angular y en cómo c
 * [KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
 * [AsyncPipe](https://angular.io/api/common/AsyncPipe)
 
-Para el uso de los componentes, se ha utilizado [PrimeNG](https://primeng.org) y para los estilos, [PrimeFlex](https://www.primefaces.org/primeflex).
+Para el uso de los componentes, se ha utilizado [PrimeNG](https://primeng.org) y para los estilos, [PrimeFlex](https://www.primefaces.org/primeflex). 
