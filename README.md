@@ -12,7 +12,7 @@ Esta aplicación consiste aprender las principales pipes de Angular y en cómo c
 * [I18nSelectPipe](https://angular.io/api/common/I18nSelectPipe)
 * [I18nPluralPipe](https://angular.io/api/common/I18nPluralPipe)
 * [SlicePipe](https://angular.io/api/common/SlicePipe)
-* [UpperCasePipe](https://angular.io/api/common/KeyValuePipe)
+* [KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
 * [AsyncPipe](https://angular.io/api/common/AsyncPipe)
 
 Para el uso de los componentes, se ha utilizado [PrimeNG](https://primeng.org) y para los estilos, [PrimeFlex](https://www.primefaces.org/primeflex).
