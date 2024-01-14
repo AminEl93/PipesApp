@@ -18,4 +18,4 @@ Las pipes que se usan son las siguientes:
 * [KeyValuePipe](https://angular.io/api/common/KeyValuePipe)
 * [AsyncPipe](https://angular.io/api/common/AsyncPipe)
 
-Para el uso de los componentes, se ha utilizado [PrimeNG](https://primeng.org) y para los estilos, [PrimeFlex](https://www.primefaces.org/primeflex). 
+Para el uso de los componentes, se ha utilizado [PrimeNG](https://primeng.org) y para los estilos, [PrimeFlex](https://www.primefaces.org/primeflex). Para probar la aplicación, se puede acceder a este [enlace](https://pipes-app-amin.netlify.app).
